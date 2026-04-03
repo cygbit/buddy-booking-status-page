@@ -4,11 +4,11 @@ Uptime monitor and status page for Buddy Booking backend services, powered by [U
 
 ## Monitored Services
 
-| Service | URL |
-|---------|-----|
+| Service        | URL                                           |
+| -------------- | --------------------------------------------- |
 | Production API | https://business-api.bookwithbuddy.com/health |
-| Staging API | https://staging-api.bookwithbuddy.com/health |
-| Dev API | https://dev-api.bookwithbuddy.com/health |
+| Staging API    | https://staging-api.bookwithbuddy.com/health  |
+| Dev API        | https://dev-api.bookwithbuddy.com/health      |
 
 ## How it works
 
