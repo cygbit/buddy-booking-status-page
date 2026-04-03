@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/business-api.bookwithbuddy.com.ico",
     "slug": "production-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "2.34%",
+    "uptimeDay": "2.34%",
+    "uptimeWeek": "2.34%",
+    "uptimeMonth": "2.34%",
+    "uptimeYear": "2.34%",
     "time": 251,
     "timeDay": 251,
     "timeWeek": 251,
     "timeMonth": 251,
     "timeYear": 251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-03": 0
+    }
   },
   {
     "name": "Staging API",
