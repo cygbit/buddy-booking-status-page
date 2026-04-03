@@ -1,0 +1,49 @@
+owner: cygbit
+repo: buddy-booking-status-page
+
+sites:
+  - name: Production API
+    url: https://business-api.bookwithbuddy.com/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: Staging API
+    url: https://staging-api.bookwithbuddy.com/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: Dev API
+    url: https://dev-api.bookwithbuddy.com/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+status-website:
+  cname: status.bookwithbuddy.com
+  logoUrl: https://bookwithbuddy.com/favicon.ico
+  name: Buddy Booking Status
+  introTitle: "**Buddy Booking** service status"
+  introMessage: This page shows the real-time status of our backend services. Powered by [Upptime](https://upptime.js.org).
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+workflowSchedule:
+  uptime: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  updates: "0 0 * * *"
+  graphs: "0 0 * * *"
+
+i18n:
+  activeIncidents: Active incidents
+  pastIncidents: Past incidents
+  pastIncidentsResolved: Resolved
+  liveStatus: Live status
+  allSystemsOperational: All systems operational
+  notAllSystemsOperational: Not all systems are operational
+  degradedPerformance: Degraded performance
+  completeOutage: Complete outage
