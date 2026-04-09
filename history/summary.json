@@ -6,7 +6,7 @@
     "slug": "production-api",
     "status": "up",
     "uptime": "17.44%",
-    "uptimeDay": "98.24%",
+    "uptimeDay": "98.25%",
     "uptimeWeek": "17.44%",
     "uptimeMonth": "17.44%",
     "uptimeYear": "17.44%",
@@ -49,7 +49,7 @@
     "slug": "dev-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,8 +58,6 @@
     "timeWeek": 201,
     "timeMonth": 201,
     "timeYear": 201,
-    "dailyMinutesDown": {
-      "2026-04-09": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
