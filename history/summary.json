@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/business-api.bookwithbuddy.com.ico",
     "slug": "production-api",
     "status": "up",
-    "uptime": "62.60%",
+    "uptime": "62.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.60%",
-    "uptimeYear": "62.60%",
+    "uptimeMonth": "62.75%",
+    "uptimeYear": "62.75%",
     "time": 190,
     "timeDay": 177,
-    "timeWeek": 196,
+    "timeWeek": 195,
     "timeMonth": 190,
     "timeYear": 190,
     "dailyMinutesDown": {
@@ -37,7 +37,7 @@
     "uptimeYear": "100.00%",
     "time": 208,
     "timeDay": 203,
-    "timeWeek": 209,
+    "timeWeek": 208,
     "timeMonth": 208,
     "timeYear": 208,
     "dailyMinutesDown": {}
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 197,
+    "time": 202,
+    "timeDay": 195,
     "timeWeek": 203,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "timeMonth": 202,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   }
 ]
