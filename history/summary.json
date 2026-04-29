@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/business-api.bookwithbuddy.com.ico",
     "slug": "production-api",
     "status": "up",
-    "uptime": "82.09%",
+    "uptime": "82.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.09%",
-    "uptimeYear": "82.09%",
+    "uptimeMonth": "82.10%",
+    "uptimeYear": "82.10%",
     "time": 187,
-    "timeDay": 153,
+    "timeDay": 156,
     "timeWeek": 182,
     "timeMonth": 187,
     "timeYear": 187,
@@ -30,35 +30,39 @@
     "url": "https://staging-api.bookwithbuddy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/staging-api.bookwithbuddy.com.ico",
     "slug": "staging-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 167,
-    "timeWeek": 202,
+    "timeDay": 169,
+    "timeWeek": 201,
     "timeMonth": 206,
     "timeYear": 206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-29": 1
+    }
   },
   {
     "name": "Dev API",
     "url": "https://dev-api.bookwithbuddy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/dev-api.bookwithbuddy.com.ico",
     "slug": "dev-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 187,
-    "timeWeek": 200,
+    "timeDay": 191,
+    "timeWeek": 199,
     "timeMonth": 203,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-29": 0
+    }
   }
 ]
