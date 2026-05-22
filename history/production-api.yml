@@ -1,7 +1,7 @@
 url: https://business-api.bookwithbuddy.com/health
-status: down
-code: 503
-responseTime: 170
-lastUpdated: 2026-05-22T00:01:13.209Z
+status: up
+code: 200
+responseTime: 456
+lastUpdated: 2026-05-22T00:34:07.385Z
 startTime: 2026-04-03T17:34:27.068Z
 generator: Upptime <https://github.com/upptime/upptime>
