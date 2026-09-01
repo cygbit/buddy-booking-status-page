@@ -1,7 +1,7 @@
 url: https://staging-api.bookwithbuddy.com/health
-status: down
-code: 502
-responseTime: 148
-lastUpdated: 2026-09-01T06:26:20.792Z
+status: up
+code: 200
+responseTime: 178
+lastUpdated: 2026-09-01T06:46:12.549Z
 startTime: 2026-04-03T17:34:29.241Z
 generator: Upptime <https://github.com/upptime/upptime>
