@@ -1,7 +1,7 @@
 url: https://dev-api.bookwithbuddy.com/health
-status: down
-code: 502
-responseTime: 233
-lastUpdated: 2026-09-23T04:25:45.523Z
+status: up
+code: 200
+responseTime: 278
+lastUpdated: 2026-09-23T04:37:24.235Z
 startTime: 2026-04-03T17:34:29.803Z
 generator: Upptime <https://github.com/upptime/upptime>
