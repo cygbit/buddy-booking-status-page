@@ -4,17 +4,17 @@
     "url": "https://business-api.bookwithbuddy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/business-api.bookwithbuddy.com.ico",
     "slug": "production-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.89%",
-    "time": 157,
-    "timeDay": 151,
-    "timeWeek": 145,
-    "timeMonth": 143,
-    "timeYear": 157,
+    "time": 158,
+    "timeDay": 218,
+    "timeWeek": 154,
+    "timeMonth": 145,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2026-04-08": 550,
       "2026-04-07": 1440,
@@ -24,7 +24,8 @@
       "2026-04-03": 386,
       "2026-04-18": 21,
       "2026-05-22": 33,
-      "2026-06-03": 46
+      "2026-06-03": 46,
+      "2026-11-13": 0
     }
   },
   {
